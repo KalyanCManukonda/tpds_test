@@ -1,3 +1,2 @@
-# tpds_test_public_repo
-
-Created a Test repo to test GUI functionalities...
+# tpds_test
+Documentation and usecase template folder
